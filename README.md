@@ -1,6 +1,6 @@
 # **magnetic vertical component** :dragon:
 
-here, i evaluated numerically the vertical component of the magnetic field due to a rectangular coil 
+Here, i evaluated numerically the vertical component of the magnetic field due to a rectangular coil 
 transmitter with variable dimensions, placed on a heterogeneous earth having
 N horizontal, homogeneous and isotropic layers. The numerical evaluation process included
 the division of each side of the coil in colinear horizontal electric dipole sources, whose
